@@ -1,0 +1,6 @@
+name: analyzer_test
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  analyzer: ^1.2.0
+  path: ^1.8.0
